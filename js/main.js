@@ -156,7 +156,7 @@ $(function(){
 
           
             new WOW().init();
-            $('#myBlock').vide('.video/Pexels Videos 1093661.mp4');
+            $('#myBlock').vide('./video/Pexels Videos 1093661.mp4');
                       
  
 });
